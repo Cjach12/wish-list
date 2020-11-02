@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_string_1" table="x_540832_wish_list_wish_item">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>test</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_string_1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>300</max_length>
+        <name>x_540832_wish_list_wish_item</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 18:56:05</sys_created_on>
+        <sys_id>a95c1728db982010ee53cc3039961965</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Wish List" source="x_540832_wish_list">95fb72a0db582010ee53cc303996196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">95fb72a0db582010ee53cc303996196f</sys_scope>
+        <sys_update_name>sys_dictionary_x_540832_wish_list_wish_item_u_string_1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 18:56:05</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">95fb72a0db582010ee53cc303996196f</application>
+        <file_path/>
+        <instance_id>8c7d7d77dbf4378052dd2f17d4961971</instance_id>
+        <instance_name>dev82389</instance_name>
+        <name>sys_dictionary_x_540832_wish_list_wish_item_u_string_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_string_1" table="x_540832_wish_list_wish_item">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>test</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_string_1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>300</max_length>
+        <name>x_540832_wish_list_wish_item</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 18:56:05</sys_created_on>
+        <sys_id>a95c1728db982010ee53cc3039961965</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Wish List" source="x_540832_wish_list">95fb72a0db582010ee53cc303996196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">95fb72a0db582010ee53cc303996196f</sys_scope>
+        <sys_update_name>sys_dictionary_x_540832_wish_list_wish_item_u_string_1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 18:56:05</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>1985710140</payload_hash>
+        <record_name>Wish Item.test</record_name>
+        <reverted_from/>
+        <source>c8dfdba8db982010ee53cc30399619fd</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 19:11:18</sys_created_on>
+        <sys_id>68df1fa8db982010ee53cc303996196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1758a5eed4b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 19:11:18</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e4df1fa837982010ffbe638760c8bd6f</update_guid>
+        <update_guid_history>e4df1fa837982010ffbe638760c8bd6f:0,143ddf28ba98201082a3d56f33f6bd01:557383892,215c17280298201024a04abd6df2ee95:903064608,6d5c1728e798201020beade4ce76c28b:-1086008013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 20:10:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>36095b694c324178bd2e8088bc4bfe40</sys_id>
+        <sys_metadata>9cdf1fa8db982010ee53cc3039961940</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Wish List" source="x_540832_wish_list">95fb72a0db582010ee53cc303996196f</sys_package>
+        <sys_parent display_value="Wish Item">1f9cbea0db582010ee53cc30399619cf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">95fb72a0db582010ee53cc303996196f</sys_scope>
+        <sys_scope_delete display_value="">13d1b01d408f4e2da3771be38de88df9</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_540832_wish_list_wish_item_u_string_1</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_540832_wish_list_wish_item_u_string_1">68df1fa8db982010ee53cc303996196f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 20:10:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
